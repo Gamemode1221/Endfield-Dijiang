@@ -1,0 +1,28 @@
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Common
+node_modules/
+.env
+.env.*
+*.log
+
+# Frontend (Next.js)
+.next/
+out/
+coverage/
+.vercel/
+*.tsbuildinfo
+next-env.d.ts
+npm-debug.log*
+
+# Backend (Java/Spring Boot)
+.gradle/
+backend/build/
+backend/bin/
+*.class
+*.jar
+*.war
